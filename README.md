@@ -8,7 +8,7 @@ This project is bootstrapped with [Create React App](https://github.com/facebook
 
 ## Reference
 
-The repo contains sources from ubs.com and all images belong to doobs. Have a blessed Christmas! 
+The repo contains sources from ubs.com and images from doobs. Have a blessed Christmas ahead and stay safe!
 
 
 
